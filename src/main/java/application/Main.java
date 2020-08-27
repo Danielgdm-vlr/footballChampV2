@@ -7,5 +7,6 @@ public class Main {
         ChampionshipOptions championshipOptions = new ChampionshipOptions();
         championshipOptions.startingMessage();
         championshipOptions.selectedOption();
+        //work in vsc, react
     }
 }
